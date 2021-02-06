@@ -63,7 +63,7 @@ public class StepDef1
 	@After
 	public void m2()
 	{
-		//System.out.println("After in stepdefclass1");
+		System.out.println("After in stepdefclass1");
 		
 	}
 }
